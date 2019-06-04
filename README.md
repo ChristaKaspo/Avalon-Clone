@@ -9,7 +9,7 @@
 
 ---
 
-[![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat&colorB=007bff)](https://cryptotip.it/p/mcnamee)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7CE3LJYX859E)
+[![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat&colorB=007bff)](https://cryptotip.it/p/mcnamee) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7CE3LJYX859E)
 
 # React (Web + Native) Starter Kit
 
@@ -27,24 +27,24 @@ This boilerplate launches with a [React web app](https://reactjs.org/) and [Reac
 The project is _super_ helpful to kick-start your next project, as it provides a lot of the common tools you may reach for, all ready to go. Specifically:
 
 - A shared React and React Native structure
-- __Flux architecture__
-    - [Redux](https://redux.js.org/docs/introduction/)
-- __Routing and navigation__
-    - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) for native mobile
-    - [React Router](https://github.com/ReactTraining/react-router) for web
-- __Data Caching / Offline__
-    - [Redux Persist](https://github.com/rt2zz/redux-persist)
-- __UI Toolkit/s__
-    - [Native Base](https://nativebase.io/) for native mobile
-    - [Bootstrap](https://getbootstrap.com/) for web
-- __Simpler mobile app development__ through
-    - [Expo](https://expo.io/)
-- __User authentication__ example through
-    - [Firebase](https://firebase.google.com/)
-- __API/Data example__
-    - Shows how to read/write data from/to an external API (in our case, [Firebase](https://firebase.google.com/))
-- __Code Linting__ with
-    - [Airbnb's JS Linting](https://github.com/airbnb/javascript) guidelines
+- **Flux architecture**
+  - [Redux](https://redux.js.org/docs/introduction/)
+- **Routing and navigation**
+  - [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) for native mobile
+  - [React Router](https://github.com/ReactTraining/react-router) for web
+- **Data Caching / Offline**
+  - [Redux Persist](https://github.com/rt2zz/redux-persist)
+- **UI Toolkit/s**
+  - [Native Base](https://nativebase.io/) for native mobile
+  - [Bootstrap](https://getbootstrap.com/) for web
+- **Simpler mobile app development** through
+  - [Expo](https://expo.io/)
+- **User authentication** example through
+  - [Firebase](https://firebase.google.com/)
+- **API/Data example**
+  - Shows how to read/write data from/to an external API (in our case, [Firebase](https://firebase.google.com/))
+- **Code Linting** with
+  - [Airbnb's JS Linting](https://github.com/airbnb/javascript) guidelines
 
 ---
 
@@ -63,7 +63,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 
 #### 1. Clone and Install
 
-_*It's recommended that you install [React Native Debugger](https://github.com/jhen0409/react-native-debugger/releases) and open before `yarn start`._
+_\*It's recommended that you install [React Native Debugger](https://github.com/jhen0409/react-native-debugger/releases) and open before `yarn start`._
 
 ```bash
 # Clone the repo

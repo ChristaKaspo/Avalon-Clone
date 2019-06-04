@@ -8,6 +8,8 @@ import TemplateSidebar from '../components/Templates/Sidebar';
 // Routes
 import Home from '../components/Home';
 import HomeScreen from '../components/HomeScreen';
+import JoinRoom from '../components/JoinRoom';
+import CreateRoom from '../components/CreateRoom';
 
 import RecipesContainer from '../../containers/Recipes';
 import RecipeListingComponent from '../components/Recipe/Listing';
@@ -39,6 +41,8 @@ const Index = () => (
       )}
     />
     <Route path="/home" render={props => <HomeScreen {...props} />} />
+    <Route path="/join-room" render={props => <JoinRoom {...props} />} />
+    <Route path="/create-room" render={props => <CreateRoom {...props} />} />
     <Route
       path="/sign-up"
       render={props => (

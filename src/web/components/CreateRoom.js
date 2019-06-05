@@ -1,23 +1,10 @@
 import React from 'react';
-import {
-  Row,
-  Col,
-  Jumbotron,
-  Button,
-  Form,
-  FormGroup,
-  Label,
-  Input,
-} from 'reactstrap';
+import AvalonHeader from './UI/AvalonHeader';
+import { Row, Col, Button, Form, FormGroup, Label, Input } from 'reactstrap';
 
 const CreateRoom = () => (
   <div>
-    <Row>
-      <Jumbotron className="bg-primary text-white">
-        <h1>Avalonie Pepperoni</h1>
-        <sub>Who ruined the pizza?!</sub>
-      </Jumbotron>
-    </Row>
+    <AvalonHeader />
     <Row className="pt-md-2">
       <Col xs="12" md="4" className="pt-3 pt-md-0">
         <div>
